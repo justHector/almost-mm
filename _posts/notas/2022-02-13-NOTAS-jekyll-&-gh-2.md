@@ -20,6 +20,7 @@ tags:
 | [rido-end2end](https://justhector.github.io/rido-end2end/) 									 | 🛹 Jugando con :: end2end - 💎 Clean Jekyll theme |
 | [rido-mm](https://justhector.github.io/rido-mm/) 												 | Jugando con :: Minimal Mistakes GitHub Pages site starter |
 | [rido-minimal-mistakes](https://justhector.github.io/rido-minimal-mistakes/) 					 | Jugando con :: 📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio. |
+| [rido-so-simple-theme](https://justhector.github.io/rido-so-simple-theme/) (B) 				 | 🛹 Jugando con :: so-simple-theme -- A simple Jekyll theme for words and pictures. |
 | [rido-mundana-theme-jekyll](https://justhector.github.io/rido-mundana-theme-jekyll/) 			 | Jugando con :: Mundana is a free Jekyll theme, Medium styled. |
 | [rido-mediator](https://justhector.github.io/rido-mediator/) (B) 								 | Jugando con :: mediator -- a medium inspired jekyll theme |
 | [rido-jekyll-architect-theme](https://justhector.github.io/rido-jekyll-architect-theme/) 		 | Jugando con :: jekyll-architect-theme -- Open Source version of the GitHub Pages theme, now for Jekyll. |
@@ -29,6 +30,7 @@ tags:
 | [rido-emerald](https://justhector.github.io/rido-emerald/) 									 | Jugando con :: emerald -- A minimal and mobile-first blog theme for Jekyll |
 | [rido-bitwiser-material](https://justhector.github.io/rido-bitwiser-material/) 				 | Jugando con :: Bitwiser Material theme for Jekyll |
 | [rido-affiliates-jekyll-theme](https://justhector.github.io/rido-affiliates-jekyll-theme/) 	 | Jugando con :: Affiliates - Jekyll Blogging Theme for Affiliate Marketers |
+
 
 |  |  |  |
 
